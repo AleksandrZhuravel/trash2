@@ -1,0 +1,6 @@
+ C:\Users\PUS\Desktop\aqa_diploma>docker-compose ps
+Системе не удается найти указанный путь.
+       Name                      Command                 State      Ports
+-------------------------------------------------------------------------
+aqa_diploma_mysql_1   docker-entrypoint.sh mysqld      Restarting
+aqa_diploma_node_1    docker-entrypoint.sh npm start   Restarting
